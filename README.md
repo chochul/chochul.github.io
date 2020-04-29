@@ -1,5 +1,6 @@
 <script>
   document.title = 'K Bank GitHub Page';
+  document.body.style.background = 'gray';
 </script>
 <div style="background-color:#D3D3D3;">
 <img src="https://www.kbanknow.com/resource/img/reform/layout/logo_kbank.png" alt="혜택은 역시, 케이뱅크"/>
