@@ -1,7 +1,5 @@
 
-<html>
-<head>K Bank GitHub Page</head>
-<body style="background-color:#D3D3D3;">
+<div style="background-color:#D3D3D3;">
 <img src="https://www.kbanknow.com/resource/img/reform/layout/logo_kbank.png" alt="혜택은 역시, 케이뱅크"/>
 <br/><br/>
 
@@ -9,5 +7,4 @@
 <br/><br/>
 
 <a href="https://chochul.github.io/test.pdf"> test.pdf </a>
-</body>
-</head>
+</div>
